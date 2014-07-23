@@ -18,7 +18,8 @@ github:
   repo:           https://github.com/ibusybox/blog
 
 pages_list: 
-  About: '/about'
   My Baby: 'http://www.maozheyang.com'
-  RSS: '/atom.xml'
   TekTea: 'http://tektea.com'
+  Archive: '/archive'
+  About: '/about'
+  RSS: '/atom.xml'
