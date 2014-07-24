@@ -6,20 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            圣托马斯
-tagline:          一个程序员
-url:              http://blog.utopia-project.com
+title:            MaoZheYang
+tagline:          好奇这个世界
+url:              http://www.maozheyang.com
 paginate:         1
 baseurl:          /
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/ibusybox/blog
+  repo:           https://github.com/maozheyang/mao
 
 pages_list: 
-  My Baby: 'http://www.maozheyang.com'
-  TekTea: 'http://tektea.com'
+  My Family: 'http://blog.utopia-project.com'
   Archive: '/archive'
   About: '/about'
   RSS: '/atom.xml'
